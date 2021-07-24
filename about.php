@@ -3,13 +3,13 @@
 //HOMEPAGE
 
 // GROUP FEATURES SECTION
-$groupTxt1 = 'Wala';
-$groupTxt2 = 'Pa po';
-$groupTxt3 = 'Content';
+$groupTxt1 = 'Cultivation';
+$groupTxt2 = 'Devotion';
+$groupTxt3 = 'Compassion';
 
 $groupCaption1 = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, quos.';
 $groupCaption2 = 'Libero quae illo! Voluptas nemo iusto qui.';
-$groupCaption3 = 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse fuga, est, dicta nisi quidem quam. ';
+$groupCaption3 = 'Animi, consequatur! Blanditiis aperiam, et vitae voluptatem dolor laudantium excepturi repellendus. ';
 
 // ABOUT SECTION
 $aboutTxt = ' Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem voluptates accusamus ex, dolorum id temporibus amet harum architecto dolorem quis magni excepturi quo asperiores maiores. Adipisci consequatur unde reiciendis cumque quisquam iste nam eligendi blanditiis nulla, pariatur harum aut temporibus corporis. Architecto eveniet veritatis ea sequi consequatur repudiandae corrupti reiciendis saepe nostrum totam dignissimos tenetur autem impedit, pariatur corporis eaque quis. Maxime tempora voluptatibus officia ducimus, dignissimos cumque ratione placeat, id accusamus. Fugiat officia dolorum numquam odio, nihil dicta commodi laboriosam voluptatem, iste excepturi. Laudantium, ex voluptatibus! Numquam eligendi harum quam ipsam nesciunt id possimus nam sequi quidem. Quaerat consequatur nam nemo facere rem, perspiciatis inventore cumque deleniti unde, odio minima, sint quisquam necessitatibus placeat ab earum. Suscipit, ducimus ipsum. Optio sed deleniti expedita nisi non in neque quae perferendis fuga saepe at quidem dolor iure perspiciatis, maxime. Nesciunt maxime natus, exercitationem reiciendis vitae sint, dignissimos consequuntur laborum incidunt quibusdam!';
