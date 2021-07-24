@@ -402,6 +402,7 @@ color: black;
   }
   #events{
     padding-bottom: 5%;
+    height: 100%;
   }
   #events .big{
     font-size: 3rem;
