@@ -23,7 +23,7 @@ $aboutTxt = ' Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem volu
 $heading1 = 'Event 1';
 $date1 = 'September 14 2021 3:00PM';
 $venue1 = 'SM City Cabanatuan';
-$desc1 = 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex nam aut ducimus natus laudantium exercitationem!';
+$desc1 = 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex nam aut ducimus natus laudantium exercitationem!Necessitatibus architecto cum blanditiis iste nobis repellat, culpa veritatis doloremque eius placeat sed facere recusandae, hic. Vitae corrupti sit natus, eius aspernatur commodi. Accusamus distinctio, dolorum ratione explicabo, sunt modi animi debitis, vero praesentium officiis error.';
 
 // SLIDE 2
 $heading2 = 'Event 2';
