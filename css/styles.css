@@ -329,6 +329,7 @@ button{
   /*background-color: #18ac9f;*/
 }
 #events{
+  height: 100%;
   width:100%;
   margin-bottom: 4%;
 }
