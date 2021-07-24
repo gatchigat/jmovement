@@ -44,7 +44,7 @@ p {
   font-size: 1.4rem;
 }
 .navbar-brand {
-  font-family: "Oxygen", sans-serif;
+  font-family: "Ubuntu", sans-serif;
   font-size: 1.7rem;
   font-weight: bold;
 }
@@ -53,9 +53,6 @@ p {
 }
 .others{
   padding: 1% 15%;
-}
-#register .container-fluid{
-  padding: 3% 15%;
 }
 
 /* SECTIONS */
@@ -81,7 +78,6 @@ p {
   /* transform: rotate(25deg); */
   position: absolute;
   right: 1%;
-  /*z-index: 3;*/
 }
 
 #features {
@@ -112,14 +108,7 @@ p {
 /* Testimonial Section */
 #testimonials {
   background-color: #18ac9f;
-  /*height: 800px;*/
 }
-.testimonialHeading{
-padding-top: 3%;
-font-weight: bolder;
-color: white; 
-}
-
 .testimonial-text {
   font-size: 3rem;
   /* font-weight: 400; */
@@ -131,19 +120,11 @@ color: white;
   margin: 20px;
 }
 .testi1 {
-  padding-bottom: 3%;
-}
-.testi3 {
-  padding-bottom: 3.5%;
+  padding-bottom: 0;
 }
 /* .testi2 {
   padding-bottom: 14.5%;
 } */
-
-.carousel-indicator {
-   position: relative;
-   bottom: -50px;
- }
 #press {
   background-color: #18ac9f;
   /* padding-top: 5%; */
@@ -183,8 +164,8 @@ color: white;
 
 /* CTA */
 
-#cta .container-fluid{
-  padding: 10% 12%;
+#cta {
+  padding: 10% 15%;
 }
 
 .cta-heading {
@@ -214,7 +195,7 @@ color: white;
   /*color: #ffffff;*/
   font-size: 1rem;
   margin: 0;
-  padding: 0.001% 15% 1% 15%;
+  padding: 0.001% 15% 2% 15%;
 }
 .copy-foot2 {
   font-size: 0.6rem;
@@ -222,55 +203,12 @@ color: white;
   margin: 0;
   padding: 0;
 }
-.copy-foot1Others {
-  /*color: #ffffff;*/
-  font-size: 1rem;
-  margin: 0;
-  padding: 0.001% 15% 0 15%;
-}
-.footer-others{
-  color: white;
-}
-.social-icon-others {
-  width: 4%;
-  margin: 20px 10px 5px 10px;
-  color: white;
-}
-.social-icon-others:hover {
-  color: #2adabc;
-}
 
 #othersMain{
-
   display: flex;
   justify-content: center;
   align-items: center;
   text-align: left;
-  flex-direction: column;
-
-}
-.othersMain{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: left;
-  flex-direction: column;
-}
-.othersMainEvent{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  flex-direction: column;
-}
-.phpDiv{
-  padding-top: 3%;
-  margin: 0;
-  font-family: 'Kalam',sans-serif;
-  font-size: 3rem;
-   color: #00af91;
- text-shadow: 2px 2px 2px #3d3d3d;
-  font-weight: bolder;
 }
 table td{
   padding: 10px 20px;
@@ -281,101 +219,9 @@ table td{
   padding: 20px;
   width: 50vw;
 }
-.input-label{
-  font-family: 'Montserrat-Light',sans-serif;
-  font-weight: 600;
-  font-size: 1.5rem;
-  letter-spacing: 3px;
-}
-/*input[type='number']{
-    width: 600px;
-}*/ 
-button{
-  border-radius: 10px;
-  outline-color: #00af91;
-}
-.buttonDiv{
-  text-align: center;
-  padding-top:3%;
-}
-
-.bold{
-  font-weight: 900;
-  line-height: 1.5;
-  }
-
-.colorG{
- color: #00af91;
- text-shadow: 1px 1px 2px #3d3d3d;
-}
 
 
-.bolder{
-  font-weight: 900;
-  list-style: 2.5;
-  padding-top: 3%;
-}
-.big{
-  font-size: 6rem;
-  line-height: 1.5;
-  
-}
-.pad{
-  padding: 3% 3%;
-}
-
-/*EVENTS*/
-#events {
-  /*background-color: #18ac9f;*/
-}
-#events{
-  width:100%;
-  margin-bottom: 4%;
-}
-#events .carousel-item {
-  height: 600px;
-}
-.eventsHeading{
-padding-top: 3%;
-font-weight: bolder;
-color: black; 
-}
-
-.event-text {
-  padding-top: 3%;
-  font-size: 1.2rem;
-   font-weight: 400; 
-  line-height: 1.5;
-}
-/*.testimonial-img {
-  width: 10%;
-  border-radius: 100%;
-  margin: 20px;
-}*/
 /* MEDIA QUERY */
-.carousel-control-prev-icon1,
-.carousel-control-next-icon1 {
-  height: 100px;
-  width: 100px;
-  outline: black;
-/*  background-size: 100%, 100%;
-  border-radius: 50%;
-  border: 1px solid black;*/
-  background-image: none;
-}
-
-.carousel-control-next-icon1:after
-{
-  content: '>';
-  font-size: 55px;
-  color: #00af91;
-}
-
-.carousel-control-prev-icon1:after {
-  content: '<';
-  font-size: 55px;
-  color: #00af91;
-}
 
 @media (max-width: 1020px) {
   #title .container-fluid {
@@ -400,13 +246,4 @@ color: black;
   .cta-heading {
     font-size: 2rem;
   }
-  #events{
-    padding-bottom: 5%;
-  }
-  #events .big{
-    font-size: 3rem;
-
-  }
-
-
 }
