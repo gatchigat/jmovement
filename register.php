@@ -96,8 +96,23 @@
           fclose($toSave);
 
 
-          //DB Connect
-          $connection = mysqli_connect('localhost', 'root', '', 'jmovement');
+          //DB Connect 
+
+          //DEV LOCAL
+          // $host = '127.0.0.1';
+          // $db = 'jmovement';
+          // $user = 'root';
+          // $pass = '';
+
+          //LIVE HEROKU
+          $host = 'remotemysql.com';
+          $db = 'gB9Y3DkByD';
+          $user = 'gB9Y3DkByD';
+          $pass = '4v08SFVVyW';
+
+
+
+          $connection = mysqli_connect($host, $user, $pass, $db);
 
           //TEST CONNECTION
           // if($connection){
@@ -134,7 +149,7 @@
 
             	<!-- Bootsrap Forms -->
             	<h3 class="bold">Registration</h3>
-               <form action="https://formspree.io/f/moqynolq" method="POST" >
+               <form action="" method="POST" >
             	   <div class="form-group row">
                   <label for="fName" class='input-label col-sm-4 col-form-label text-left'>First Name</label>
                   <div class="col-sm-8">
