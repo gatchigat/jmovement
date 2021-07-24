@@ -29,11 +29,11 @@ $desc1 = 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex nam aut d
 $heading2 = 'Event 2';
 $date2 = 'December 20 2021 9:00AM';
 $venue2 = 'Pilapil ni Nardong Putik';
-$desc2 = 'Harum, dignissimos minus alias, nihil nobis dolore, eum nesciunt vero eligendi ipsa maxime fuga a vitae, sequi eius animi in officiis. Consequatur beatae suscipit voluptates aut, a autem ducimus blanditiis nisi nobis, provident et? Illo, mollitia ex vero, quisquam debitis delectus. Aut consectetur veritatis in omnis commodi corporis consequuntur porro facere voluptatem quidem impedit deserunt labore, minima culpa adipisci. Veniam maiores mollitia optio asperiores amet, porro totam, dolorum alias ipsam consequuntur ex.	';
+$desc2 = 'Harum, dignissimos minus alias, nihil nobis dolore, eum nesciunt vero eligendi ipsa maxime fuga a vitae, sequi eius animi in officiis. Consequatur beatae suscipit voluptates aut, a autem ducimus blanditiis nisi nobis, provident et? Illo, mollitia ex vero, quisquam debitis delectus. Aut consectetur veritatis in omnis commodi corporis consequuntur porro facere voluptatem quidem impedit deserunt labore, minima culpa adipisci. 	';
 
 // SLIDE 3
 $heading3 = 'Weekly Bible Study';
 $date3 = 'Every Friday 8:00PM';
 $venue3 = 'Sa Lumang Bahay';
-$desc3 = 'Corrupti libero sint ullam iure officiis iste qui earum maiores placeat consequatur assumenda nobis consectetur, est inventore nulla voluptatibus facere, voluptatum? Iure itaque dolorem iste libero beatae pariatur commodi blanditiis illo velit!'
+$desc3 = 'Corrupti libero sint ullam iure officiis iste qui earum maiores placeat consequatur assumenda nobis consectetur, est inventore nulla voluptatibus facere, voluptatum? Iure itaque dolorem iste libero beatae pariatur commodi blanditiis illo velit! Veniam maiores mollitia optio asperiores amet, porro totam, dolorum alias ipsam consequuntur ex.Iusto consequuntur quisquam alias odio tenetur soluta laboriosam.'
  ?>
