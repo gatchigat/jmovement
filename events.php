@@ -97,34 +97,34 @@ include "about.php"
              <div id="event-carousel" class="carousel slide " data-ride="false">
 
               <div class="carousel-inner">
-                <div class="testi2 carousel-item active container-fluid ">
-                   <h2 class=" testi1 bold big"><?php echo $heading1; ?>
+                <div class="testi2 carousel-item active container-fluid">
+                   <h2 class="testi1 bold big"><?php echo $heading1; ?>
                   </h2> 
-                  <h4 class=" testi1  bold"><?php echo $date1; ?>
+                  <h4 class="testi1 bold"><?php echo $date1; ?>
                   </h4>
-                  <h4 class=" testi1  bold"><?php echo $venue1; ?>
+                  <h4 class="testi1 bold"><?php echo $venue1; ?>
                   </h4>  
-                  <h5 class=" testi1 event-text"><?php echo $desc1; ?>
+                  <h5 class="testi1 event-text"><?php echo $desc1; ?>
                   </h5>
                 </div>
-                     <div class="testi2 carousel-item container-fluid ">
-                   <h2 class=" testi2 bold big"><?php echo $heading2; ?>
+                     <div class="testi2 carousel-item container-fluid">
+                   <h2 class="testi2 bold big"><?php echo $heading2; ?>
                   </h2> 
-                  <h4 class=" testi2  bold"><?php echo $date2; ?>
+                  <h4 class="testi2 bold"><?php echo $date2; ?>
                   </h4>
-                  <h4 class=" testi2  bold"><?php echo $venue2; ?>
+                  <h4 class="testi2 bold"><?php echo $venue2; ?>
                   </h4>  
-                  <h5 class=" testi2 event-text"><?php echo $desc2; ?>
+                  <h5 class=" esti2 event-text"><?php echo $desc2; ?>
                   </h5>
                 </div>
-                   <div class="testi2 carousel-item container-fluid ">
-                   <h2 class=" testi2 bold big"><?php echo $heading3; ?>
+                   <div class="testi2 carousel-item container-fluid">
+                   <h2 class="testi2 bold big"><?php echo $heading3; ?>
                   </h2> 
-                  <h4 class=" testi2  bold"><?php echo $date3; ?>
+                  <h4 class="testi2 bold"><?php echo $date3; ?>
                   </h4>
-                  <h4 class=" testi2  bold"><?php echo $venue3; ?>
+                  <h4 class="testi2 bold"><?php echo $venue3; ?>
                   </h4>  
-                  <h5 class=" testi2 event-text"><?php echo $desc3; ?>
+                  <h5 class="testi2 event-text"><?php echo $desc3; ?>
                   </h5>
                 </div>
               </div>
