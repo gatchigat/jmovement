@@ -41,13 +41,8 @@
     			main{
             text-align: center;
             height: 85vh;
-            /*width: 100vw;*/
-    			
-          }
+            /*width: 100vw;*/}
 
-            p{
-            /*max-width: 1000vw;*/
-    			}
       </style>
 </head>
 <body>

@@ -45,8 +45,8 @@
     			
           }
           table {
-            border-collapse: collapse;
-            width: 100%;
+            /*border-collapse: collapse;*/
+            /*width: 100%;*/
             text-align: left;
           }
 
@@ -101,7 +101,7 @@ include "about.php"
      <section class="white-section" id="events">
       <h2 class="bolder colorG">Members</h2>
               <!-- <div class="container-fluid"> -->
-
+<div class="table-responsive-sm">
                 <div class="row">
 
                   <div class="col-lg-10 mx-auto">
@@ -111,12 +111,12 @@ include "about.php"
              <table class="table table-striped table-hover">
               <thead class="thead-dark">
                <tr>
-                 <th scope="col">ID</th>
-                 <th scope="col">FirstName</th>
-                 <th scope="col">LastName</th>
-                 <th scope="col">Email</th>
-                 <th scope="col">ContactNo</th>
-                 <th scope="col">Address</th>
+                 <th>ID</th>
+                 <th>FirstName</th>
+                 <th>LastName</th>
+                 <th>Email</th>
+                 <th>ContactNo</th>
+                 <th>Address</th>
                </tr>
              </thead>
              

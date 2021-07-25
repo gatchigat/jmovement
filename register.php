@@ -98,11 +98,12 @@
 
           //DB Connect 
 
-          //DEV LOCAL
+          //DEV LOCALHOST
           // $host = '127.0.0.1';
           // $db = 'jmovement';
           // $user = 'root';
           // $pass = '';
+
 
           //LIVE HEROKU
           $host = 'remotemysql.com';
